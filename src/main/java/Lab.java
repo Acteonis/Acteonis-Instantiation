@@ -17,7 +17,9 @@ public class Lab {
      *
      * @return any object.
      */
+    int Digit;
     public Object instantiateANewObject(){
-        return null;
+        
+        return Digit;
     }
 }

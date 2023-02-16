@@ -20,6 +20,6 @@ public class Lab {
     int Digit;
     public Object instantiateANewObject(){
         
-        return Digit;
+        return Digit;  
     }
 }
